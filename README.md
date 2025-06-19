@@ -1,1 +1,2 @@
-# cv2_jpg_preprocessing
+# cv2_jpg_preprocessing  
+This repository provides utilities for JPEG image pre-processing, including Gaussian filtering using OpenCV. The main workflow is implemented as a Google Colab notebook (jpg_cv2_gaussianfilter.ipynb), with an accompanying Python script (jpg_cv2_gaussianfilter.py). Example JPEG images are included in data/jpg111523/. The repository supports interactive processing of image data prior to feature extraction or further analysis.
